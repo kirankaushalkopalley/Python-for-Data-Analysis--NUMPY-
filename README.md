@@ -25,7 +25,7 @@ Install via CONDA
 ```
 ## Documentation
 
-This repository is a collection of all the different usecases which involve functions
+This repository is a collection of all the different use-cases which involve functions
 in Arrays (both 1D & 2D), how to use array indexing and accordingly selecting the values 
 within an Array.
 
