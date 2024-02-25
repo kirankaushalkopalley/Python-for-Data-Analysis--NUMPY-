@@ -26,7 +26,7 @@ Install via CONDA
 ## Documentation
 
 This repository is a collection of all the different use-cases which involve functions
-in Arrays (both 1D & 2D), how to use array indexing and accordingly selecting the values 
+in Arrays (both 1D & 2D), how to use the array indexing and accordingly selecting the values 
 within an Array.
 
 Along with the basic transformations, we can also use several mathematical operations 
